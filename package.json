@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joaovitor949/youtube_automation/issues"
   },
-  "homepage": "https://github.com/joaovitor949/youtube_automation#readme"
+  "homepage": "https://github.com/joaovitor949/youtube_automation#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
