@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/joaovitor949/youtube_automation#readme",
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "algorithmia": "^0.3.10",
+    "readline-sync": "^1.4.10",
+    "sdb-node": "^0.2.2"
   }
 }
